@@ -1,7 +1,6 @@
 [
   {
     "name": "NeonCity",
-    "leaderName": "Neon Core",
-    "cities": ["Neon Prime", "Neon District", "Sector 7", "Grid City"]
+    "leaderName": "Neon Core"
   }
 ]
