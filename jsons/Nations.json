@@ -1,13 +1,9 @@
 [
-	{
-		"name": "NeonCity Core",
-		"leaderName": "Neon AI",
-		"style": "Future",
-		"startBias": ["Plains"],
-		"cities": ["Neon Prime", "Cyber District", "Neon Harbor", "Grid-7"],
-		"uniques": [
-			"[+2] [Science] [in all cities]",
-			"[+10%] [Production] [in all cities]"
-		]
-	}
+  {
+    "name": "NeonCity",
+    "leaderName": "Neon Core",
+    "style": "Future",
+    "startBias": ["Plains"],
+    "cities": ["Neon Prime", "Cyber District", "Neon Harbor", "Grid-7"]
+  }
 ]

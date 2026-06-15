@@ -1,13 +1,9 @@
 [
-	{
-		"name": "Neon Drone",
-		"unitType": "Recon",
-		"cost": 50,
-		"movement": 3,
-		"strength": 20,
-		"requiredTech": "Archery",
-		"uniques": [
-			"Self-destructs when attacking"
-		]
-	}
+  {
+    "name": "Neon Drone",
+    "unitType": "Recon",
+    "cost": 50,
+    "movement": 3,
+    "strength": 20
+  }
 ]
