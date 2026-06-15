@@ -2,7 +2,6 @@
   {
     "name": "NeonCity",
     "leaderName": "Neon Core",
-    "style": "European",
     "cities": ["Neon Prime", "Neon District", "Sector 7", "Grid City"]
   }
 ]
