@@ -1,0 +1,17 @@
+[
+	{
+		"name": "Neon Energy",
+		"resourceType": "Strategic",
+		"uniques": ["Stockpiled"]
+	},
+	{
+		"name": "Crypto Shards",
+		"resourceType": "Strategic",
+		"uniques": ["Stockpiled"]
+	},
+	{
+		"name": "Data Credits",
+		"resourceType": "Strategic",
+		"uniques": ["Stockpiled"]
+	}
+]
