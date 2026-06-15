@@ -1,9 +1,8 @@
 [
   {
-    "name": "NeonCity",
-    "leaderName": "Neon Core",
-    "style": "Future",
-    "startBias": ["Plains"],
-    "cities": ["Neon Prime", "Cyber District", "Neon Harbor", "Grid-7"]
+    "name": "TestCiv",
+    "leaderName": "Test",
+    "style": "European",
+    "cities": ["A", "B"]
   }
 ]
